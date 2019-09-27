@@ -22,5 +22,5 @@ a{
   width: 800px;
 }
 #details{
-  display: table-row-group;
+  display: flex;
 }
