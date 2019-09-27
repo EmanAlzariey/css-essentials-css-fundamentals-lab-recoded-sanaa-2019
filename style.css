@@ -23,4 +23,5 @@ a{
 }
 #details{
   display: flex;
+  background-color: red;
 }
