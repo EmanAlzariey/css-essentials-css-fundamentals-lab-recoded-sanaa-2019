@@ -30,6 +30,7 @@ text-align: center;
 #details{
   display: flex;
   background-color: red;
+  margin: : 200px;
 }
 
 div{
