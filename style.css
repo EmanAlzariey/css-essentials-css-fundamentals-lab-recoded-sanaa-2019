@@ -14,17 +14,18 @@ text-align: center;
 
 #featured-property{
   text-align: center;
+  display: block;
 }
 
 #image-caption{
   text-align: center;
   font-size: small;
 }
-
+/*
 #text-box{
   padding-left:280px;
   width: 800px;
-}
+}*/
 
 #details{
   display: flex;
