@@ -15,6 +15,8 @@ text-align: center;
 #featured-property{
   text-align: center;
   display: block;
+  padding-left:280px;
+  width: 800px;
 }
 
 #image-caption{
