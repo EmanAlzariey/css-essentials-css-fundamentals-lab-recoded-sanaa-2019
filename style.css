@@ -23,6 +23,5 @@ header{
 #details{
   display: flex;
   background-color: red;
-  text-align: center;
   float: left;
 }
