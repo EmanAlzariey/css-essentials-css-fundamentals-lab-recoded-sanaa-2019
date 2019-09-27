@@ -23,7 +23,7 @@ text-align: center;
 #details{
   display: flex;
   background-color: red;
-  float: left;
+  /*float: left;*/
 }
 
 #text-box{
