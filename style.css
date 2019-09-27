@@ -15,9 +15,8 @@ a{
 }
 #image-caption{ /*didnt work yet*/
   text-align: center;
-  font-size: 1px;
+  font-size: small;
 }
 #featured-property{
   text-align: center;
-  font-size: small;
 }
