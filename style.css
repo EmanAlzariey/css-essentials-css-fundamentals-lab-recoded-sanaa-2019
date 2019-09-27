@@ -8,11 +8,6 @@ header{
   text-align: center;
 }
 
-a{
-  background-color: lightgrey;
-  padding-left: 10px;
-  padding-right: 10px;
-}
 #image-caption{ /*didnt work yet*/
   text-align: center;
   font-size: small;
