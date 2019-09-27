@@ -31,3 +31,8 @@ text-align: center;
   display: flex;
   background-color: red;
 }
+
+
+div{
+  font-size: small;
+}
