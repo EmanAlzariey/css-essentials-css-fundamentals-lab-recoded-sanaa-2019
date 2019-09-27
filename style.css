@@ -29,5 +29,5 @@ text-align: center;
 #details{
   display: inline-flex;
   background-color: red;
-  /*float: left;*/
+  float: left;
 }
