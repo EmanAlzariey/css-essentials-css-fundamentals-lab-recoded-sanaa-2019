@@ -13,7 +13,7 @@ header{
   font-size: small;
 }
 #featured-property{
-  /*text-align: center;*/
+  text-align: center;
   width: 800px;
 }
 #details{
