@@ -28,7 +28,7 @@ text-align: center;
 }
 
 #details{
-  display: inline-block;
+  display: inline-flex;;
   background-color: red;
 }
 
