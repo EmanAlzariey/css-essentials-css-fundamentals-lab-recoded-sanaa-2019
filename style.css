@@ -12,7 +12,11 @@ header{
     background-color: lightgrey; padding-left: 10px; padding-right: 10px;
 }
 
-
+#featured-property{
+  text-align: center;
+  display: block;
+  width: 800px;
+}
 
 #image-caption{
   text-align: center;
