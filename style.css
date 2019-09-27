@@ -13,3 +13,7 @@ a{
   padding-left: 10px;
   padding-right: 10px;
 }
+#image-caption{
+  text-align: center;
+  font-size: 1px;
+}
