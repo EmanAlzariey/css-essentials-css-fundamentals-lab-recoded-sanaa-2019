@@ -28,6 +28,6 @@ text-align: center;
 }
 
 #details{
-  display: block;
+  display: flex;
   background-color: red;
 }
