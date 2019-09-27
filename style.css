@@ -13,8 +13,9 @@ header{
     background-color: lightgrey; padding-left: 10px; padding-right: 10px;
 }
 
-#featured-property{
+p{
     align-content: center;
+    width:800px;
 
 }
 
