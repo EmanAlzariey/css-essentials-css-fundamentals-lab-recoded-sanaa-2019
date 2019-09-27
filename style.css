@@ -8,8 +8,7 @@ header{
   text-align: center;
 }
 
-nav{
-  a{
-    background-color: grey;
-  }
+a{
+  background-color: grey;
 }
+
