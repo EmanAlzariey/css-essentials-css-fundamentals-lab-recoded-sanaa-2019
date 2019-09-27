@@ -8,6 +8,9 @@ header{
   text-align: center;
 }
 
+#nav-links{
+    background-color: lightgrey; padding-left: 10px; padding-right: 10px;
+}
 #image-caption{ /*didnt work yet*/
   text-align: center;
   font-size: small;
