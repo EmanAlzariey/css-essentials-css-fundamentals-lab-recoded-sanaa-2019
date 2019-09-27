@@ -21,11 +21,11 @@ text-align: center;
   text-align: center;
   font-size: small;
 }
-/*
+
 #text-box{
   padding-left:280px;
   width: 800px;
-}*/
+}
 
 #details{
   display: flex;
