@@ -9,7 +9,7 @@ header{
 }
 
 nav{
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey;
+  a{
+    background-color: 10px;
+  }
 }
